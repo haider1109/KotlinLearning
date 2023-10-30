@@ -44,7 +44,7 @@ class main {
 
             val mutableList = mutableListOf<String>()
             mutableList.add("faiz")
-            mutableList.add("sami")
+            mutableList.add("saoi")
             mutableList.add("wajid")
 
             for (s in mutableList) {
